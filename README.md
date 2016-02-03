@@ -8,6 +8,7 @@ Various community todos and docs, a place to stash inprogress things.
 
 ### Change.org Petition
 
+- [ ] Get over 45,000 followers, then share goal to 50K! VERY CLOSE ONLY 37 AWAY!
 - [ ] Get over 50,000 followers, then tweet it.
 - [ ] Set the next goal
 
@@ -33,6 +34,10 @@ Join http://newpalmyra.org
 
 Join http://waiting4bassel.cc process, check the footer for links to issues and more social.
 
+### Protocultural 
+
+Host your own Protocultural event around the world. http://protocultural.org
+
 ## New Project Ideas
 
 Pick one of these, talk to us at info@freebassel.org, and attack it with vigor, and publicly!
@@ -48,6 +53,9 @@ Pick one of these, talk to us at info@freebassel.org, and attack it with vigor, 
 * FREEBASSEL Timeline: Improve timeline of Bassel's life
 * Interview Bassel's friends and family, publish the interviews.
 * Bassel's Art Show: Do a show with Bassel's artwork
+* FREEBASSEL DAY is March 15, 2016. That is the 4th year he is locked up, but this now the first where he is completely missing! Its also the same day 
+* FREEBASSEL BIRTHDAY is May 22, 2016. Need a plan.
+
 
 
 
