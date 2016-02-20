@@ -36,7 +36,7 @@ Join http://waiting4bassel.cc process, check the footer for links to issues and 
 
 ### #costoffreedom.cc
 
-Join http://costoffreedom.cc process.
+Join http://costoffreedom.cc process. https://github.com/costoffreedom/
 
 ### Protocultural 
 
