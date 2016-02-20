@@ -63,7 +63,7 @@ Pick one of these, talk to us at info@freebassel.org, and attack it with vigor, 
 * Freebassel Archives: Get images, video and text from Bassel and share publicly.
 * Freebassel Creative Project: Make a song, video, poem, or a vr play about Bassel, perform and publish publicly.
 * Translate some documents into high priority language: Arabic, Russian, Chinese, Persian, French, Spanish. All other to English.
-* FREEBASSEL Timeline: Improve timeline of Bassel's life
+* FREEBASSEL Timeline: Improve timeline of Bassel's life: http://timeline.freebassel.org
 * Interview Bassel's friends and family, publish the interviews.
 * Bassel's Art Show: Do a show with Bassel's artwork
 * FREEBASSEL DAY is March 15, 2016. That is the 4th year he is locked up, but this now the first where he is completely missing! Its also the same day 
