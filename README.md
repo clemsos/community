@@ -42,7 +42,7 @@ Join http://costoffreedom.cc process.
 
 Host your own Protocultural event around the world. http://protocultural.org
 
-### FREEBASSEL DAYS
+### FREEBASSEL Days
 
 - [x] create freebassel days script to calculate days since detained http://github.com/freebassel/days
 - [x] create days.freebassel.org with current day since March 15, 2012
@@ -51,6 +51,13 @@ Host your own Protocultural event around the world. http://protocultural.org
 - [ ] write some software to randomly pull empty day, and give chance for someone to tweet, or make something and tweet
 - [ ] do some artshow or project with the days project
 - [ ] setup cronjob to post every new day the current freebassel day to @freebassel twitter, facebook, etc
+
+### FREEBASSEL Timeline
+
+- [x] move to freebassel github: https://github.com/freebassel/timeline.freebassel.org
+- [ ] add more data points to bassel's life
+- [ ] integrate into freebassel.org
+- [ ] make the github site prettier
 
 ## New Project Ideas
 
@@ -63,7 +70,6 @@ Pick one of these, talk to us at info@freebassel.org, and attack it with vigor, 
 * Freebassel Archives: Get images, video and text from Bassel and share publicly.
 * Freebassel Creative Project: Make a song, video, poem, or a vr play about Bassel, perform and publish publicly.
 * Translate some documents into high priority language: Arabic, Russian, Chinese, Persian, French, Spanish. All other to English.
-* FREEBASSEL Timeline: Improve timeline of Bassel's life: http://timeline.freebassel.org
 * Interview Bassel's friends and family, publish the interviews.
 * Bassel's Art Show: Do a show with Bassel's artwork
 * FREEBASSEL DAY is March 15, 2016. That is the 4th year he is locked up, but this now the first where he is completely missing! Its also the same day 
