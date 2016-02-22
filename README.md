@@ -38,7 +38,7 @@ Join http://waiting4bassel.cc process, check the footer for links to issues and 
 
 Join http://costoffreedom.cc process. https://github.com/costoffreedom/
 
-### Protocultural 
+### Protocultural
 
 Host your own Protocultural event around the world. http://protocultural.org
 
@@ -70,11 +70,8 @@ Pick one of these, talk to us at info@freebassel.org, and attack it with vigor, 
 * Freebassel Archives: Get images, video and text from Bassel and share publicly.
 * Freebassel Creative Project: Make a song, video, poem, or a vr play about Bassel, perform and publish publicly.
 * Translate some documents into high priority language: Arabic, Russian, Chinese, Persian, French, Spanish. All other to English.
+* Translate [Bassel's tweets](https://github.com/costoffreedom/costoffreedom.cc/blob/gh-pages/bassel-tweets.csv). Tweets in arabic need english, and those in english need arabic
 * Interview Bassel's friends and family, publish the interviews.
 * Bassel's Art Show: Do a show with Bassel's artwork
-* FREEBASSEL DAY is March 15, 2016. That is the 4th year he is locked up, but this now the first where he is completely missing! Its also the same day 
+* FREEBASSEL DAY is March 15, 2016. That is the 4th year he is locked up, but this now the first where he is completely missing! Its also the same day
 * FREEBASSEL BIRTHDAY is May 22, 2016. Need a plan.
-
-
-
-
